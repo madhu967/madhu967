@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Madhu Venkat
+💻 Web Developer | 🌱 Learning MERN Stack | 🚀 Open Source Enthusiast  
 
-<!--
-**madhu967/madhu967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently interning at International Institute of SDG's & Public Policy Research  
+- 🌱 Learning **ReactJS, Node.js, MongoDB, Express**  
+- 💡 Interested in **Web Development & AI**  
+- 📫 Reach me: [ijjimadhu@gmail.com](mailto:ijjimadhu@gmail.com)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats:
+![Madhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhu967&show_icons=true&theme=radical)
+
+### 🔝 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhu967&layout=compact&theme=radical)
+
