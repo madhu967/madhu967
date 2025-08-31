@@ -22,10 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Madhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhu967&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhu967&hide=C&layout=compact&theme=radical)
 
 ---
 
