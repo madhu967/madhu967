@@ -1,24 +1,39 @@
-# Hi 👋, I'm Madhu Venkat
-💻 Web Developer | 🌱 Learning MERN Stack | 🚀 Open Source Enthusiast  
+# 👋 Hi, I'm Madhu Venkat  
 
-- 🔭 Currently interning at International Institute of SDG's & Public Policy Research  
-- 🌱 Learning **ReactJS, Node.js, MongoDB, Express**  
-- 💡 Interested in **Web Development & AI**  
-- 📫 Reach me: [ijjimadhu@gmail.com](mailto:ijjimadhu@gmail.com)  
+🚀 Passionate **Web Developer** | 🌱 Learning **DSA in Java** | 💻  MERN Stack  
 
 ---
 
-### 📊 GitHub Stats:
-![Madhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhu967&show_icons=true&theme=radical)
+### 💼 About Me
+- 🎓 B.Tech 3rd Year Student at Vishnu Institute of Technology  
+- 🌐 **Full-Stack Development (MERN)**  
+- 📘 Currently improving problem-solving by practicing **Data Structures & Algorithms in Java**  
+- 🌱 Love building scalable applications and learning new technologies  
 
-### 🔝 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhu967&layout=compact&theme=radical)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhu967&hide=C&layout=compact&theme=radical)
-
-
-### 🚀 Skills
+### 🚀 Skills  
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
 ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb)
+![Java](https://img.shields.io/badge/Language-Java-red?logo=java)
+![DSA](https://img.shields.io/badge/Learning-DSA-orange)
+
+---
+
+### 📊 GitHub Stats  
+![Madhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhu967&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhu967&hide=C&layout=compact&theme=radical)
+
+---
+
+### 📌 Current Focus  
+- 🔥 Solving **LeetCode** and **GFG** problems in **Java**  
+- 🚀 Building **React + Node.js projects** to strengthen MERN skills  
+- 📖 Exploring **System Design & Advanced DSA**  
+
+---
+
+⭐️ Feel free to connect with me and check out my projects!  
