@@ -14,3 +14,8 @@
 ### 🔝 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhu967&layout=compact&theme=radical)
 
+### 🚀 Skills
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
+![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb)
