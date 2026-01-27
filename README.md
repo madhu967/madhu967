@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Madhu Venkat  
 
-🚀 Passionate **Web Developer** | 🌱 Learning **DSA in Java** | 💻  MERN Stack  
+🚀 Passionate **Web Developer** | 🌱 Learning **DSA in Java** | 💻  MERN Stack 
 
 ---
 
