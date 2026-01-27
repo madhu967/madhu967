@@ -21,6 +21,7 @@
 ![DSA](https://img.shields.io/badge/Learning-DSA-orange)
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhu967&layout=compact)
 
 
 ---
