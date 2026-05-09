@@ -12,10 +12,9 @@
 
 ## 🌟 About Me
 
-- 🎓 **B.Tech CSE Student** at Vishnu Institute of Technology, Bhimavaram (Aug 2023 – May 2027) | **CGPA: 9.41/10**
+- 🎓 **B.Tech CSE Student** at Vishnu Institute of Technology, Bhimavaram (Aug 2023 – May 2027) | **CGPA: 9.31/10**
 - 💼 **Full Stack Developer Intern** at Yubhian Technologies (Aug 2025 – Present)
 - 👨‍💻 Passionate about **Full Stack Development** | **Web Technologies** | **DSA**
-- 🧠 Solved **150+ problems** on LeetCode with focus on Data Structures & Algorithms
 - 📍 Based in **Vijayawada, Andhra Pradesh**
 - 📞 **+91-7207581909** | 📧 **ijjimadhu@gmail.com**
 
@@ -25,7 +24,7 @@
 
 ### 🚀 Full Stack Developer Intern | Yubhian Technologies
 
-**Aug 2025 – Present** | _Remote_
+**Nov 2025 – Present** | _Remote_
 
 - Built and deployed **3 full-stack MERN applications** with CRUD operations, JWT authentication, and RESTful APIs
 - Implemented data validation and handled edge cases for application reliability
@@ -112,13 +111,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🧠 Data Structures & Algorithms
-
-![Arrays](https://img.shields.io/badge/Arrays-4CAF50?style=for-the-badge)
-![Strings](https://img.shields.io/badge/Strings-2196F3?style=for-the-badge)
-![Linked Lists](https://img.shields.io/badge/Linked%20Lists-FF9800?style=for-the-badge)
-![Binary Trees](https://img.shields.io/badge/Binary%20Trees-9C27B0?style=for-the-badge)
-![Recursion](https://img.shields.io/badge/Recursion-F44336?style=for-the-badge)
 
 ### 🛠️ Tools & Platforms
 
@@ -161,7 +153,7 @@
 
 ## 🎯 Current Focus
 
-🔥 Solving **LeetCode & GeeksforGeeks Problems** (150+ problems solved)
+🔥 Solving **LeetCode & GeeksforGeeks Problems** 
 
 🚀 Building **React + Node.js Projects** with production-grade code
 
@@ -171,17 +163,6 @@
 
 ---
 
-## 📈 Achievements & Certifications
-
-✅ **150+ LeetCode Problems** - Focus on DSA (Arrays, Strings, Trees, Recursion)
-
-✅ **CGPA: 9.41/10** - Consistent academic excellence
-
-✅ **60+ Students Mentored** - As Teaching Assistant for MERN Stack
-
-✅ **3 Full-Stack Applications** - Built and deployed with Yubhian Technologies
-
----
 
 ## 🌐 Connect With Me
 
@@ -194,14 +175,4 @@
 
 </div>
 
----
 
-<div align="center">
-
-### 💡 "Code is poetry, DSA is the art of solving problems elegantly"
-
-**⭐ If you like my projects, please consider giving them a star! It motivates me to build more amazing things.**
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-</div>
