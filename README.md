@@ -59,7 +59,7 @@
 
 ### 🤖 AI-Integrated Blog Platform
 
-**2025** | [GitHub](https://github.com/madhu967) | [Live Demo](https://ai-blog-platform.vercel.app)
+**2025** 
 
 **Tech Stack:** React.js, Express.js, Gemini API, MongoDB
 
@@ -70,7 +70,7 @@
 
 ### 🏥 Hospital Booking Platform (Prescripto)
 
-**2025** | [GitHub](https://github.com/madhu967) | [Live Demo](https://prescripto-platform.vercel.app)
+**2025** 
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Stripe, Cloudinary
 
