@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile.png" width="160" alt="Ijji Madhu Venkat" style="border-radius: 50%; border: 4px solid #58a6ff; margin-bottom: 20px;" />
+  <img src="profile.jpg" width="160" alt="Ijji Madhu Venkat" style="border-radius: 50%; border: 4px solid #58a6ff; margin-bottom: 20px;" />
   <h3>🚀 Full-Stack Software Engineer | MERN Specialist</h3>
   
   <p align="center">
