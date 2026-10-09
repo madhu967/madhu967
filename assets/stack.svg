@@ -1,31 +1,46 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%" height="400">
-  <defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+      <defs>
+        
     <style>
-  * { font-family: 'Courier New', monospace; }
-  .display { font-family: 'Arial', sans-serif; font-weight: 800; }
-</style>
-<pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-   <circle cx="2" cy="2" r="1.5" fill="#247bff" opacity="0.1" />
-</pattern>
-<linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-   <stop offset="0%" stop-color="#247bff" />
-   <stop offset="100%" stop-color="#ff354f" />
-</linearGradient>
-  </defs>
-  <rect width="798" height="398" x="1" y="1" rx="16" fill="#070b16" stroke="url(#border-grad)" stroke-width="2"/>
-  <rect width="800" height="400" rx="16" fill="url(#dots)" />
-  <circle cx="400" cy="200" r="40" fill="#247bff" opacity="0.2" />
-  <text x="400" y="208" fill="#247bff" font-size="24" class="display" text-anchor="middle">TECH</text>
-  <g stroke="#247bff" fill="none" stroke-width="1" stroke-dasharray="4 4" opacity="0.3">
-    <ellipse cx="400" cy="200" rx="120" ry="60" />
-    <ellipse cx="400" cy="200" rx="200" ry="100" />
-    <ellipse cx="400" cy="200" rx="280" ry="140" />
-  </g>
-  <path id="o1" d="M 520 200 A 120 60 0 1 1 519.9 200" fill="none" />
-  <path id="o2" d="M 600 200 A 200 100 0 1 1 599.9 200" fill="none" />
-  <path id="o3" d="M 680 200 A 280 140 0 1 1 679.9 200" fill="none" />
-  <g><circle r="15" fill="#f8f9fa"/><text y="4" font-size="10" text-anchor="middle" fill="#070b16" font-weight="bold">JS</text><animateMotion dur="10s" repeatCount="indefinite"><mpath href="#o1"/></animateMotion></g>
-  <g><circle r="20" fill="#ff354f"/><text y="5" font-size="12" text-anchor="middle" fill="#f8f9fa" font-weight="bold">React</text><animateMotion dur="15s" repeatCount="indefinite"><mpath href="#o2"/></animateMotion></g>
-  <g><circle r="18" fill="#247bff"/><text y="4" font-size="10" text-anchor="middle" fill="#f8f9fa" font-weight="bold">Node</text><animateMotion dur="20s" repeatCount="indefinite"><mpath href="#o3"/></animateMotion></g>
-  <g><circle r="15" fill="#4DB33D"/><text y="4" font-size="10" text-anchor="middle" fill="#f8f9fa" font-weight="bold">Mongo</text><animateMotion dur="25s" repeatCount="indefinite" keyPoints="0.5;1;0;0.5" keyTimes="0;0.5;0.5;1" calcMode="linear"><mpath href="#o2"/></animateMotion></g>
-</svg>
+      @font-face { font-family: 'Outfit'; src: url(data:font/woff2;base64,) format('woff2'); font-weight: 800; }
+      @font-face { font-family: 'Fira Code'; src: url(data:font/woff2;base64,) format('woff2'); font-weight: 400; }
+      * { font-family: 'Fira Code', monospace; }
+      .display { font-family: 'Outfit', sans-serif; font-weight: 800; }
+      .bg { fill: #070b16; }
+      .text-light { fill: #f8f9fa; }
+      .text-blue { fill: #247bff; }
+      .text-red { fill: #ff354f; }
+      .text-muted { fill: #8b9bb4; }
+    </style>
+    <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+       <circle cx="2" cy="2" r="1.5" fill="#247bff" opacity="0.1" />
+    </pattern>
+    <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+       <stop offset="0%" stop-color="#247bff" />
+       <stop offset="100%" stop-color="#ff354f" />
+    </linearGradient>
+    <clipPath id="radius-clip"><rect width="798" height="398" x="1" y="1" rx="16" /></clipPath>
+    
+      </defs>
+      <rect width="800" height="400" rx="16" class="bg" />
+      <rect width="800" height="400" rx="16" fill="url(#dots)" />
+      <rect width="798" height="398" x="1" y="1" rx="16" fill="none" stroke="url(#border-grad)" stroke-width="2"/>
+      
+      <circle cx="400" cy="200" r="45" fill="#247bff" opacity="0.15" stroke="#247bff" stroke-width="2"/>
+      <text x="400" y="210" class="text-blue display" font-size="28" text-anchor="middle">TECH</text>
+      
+      <g stroke="#247bff" fill="none" stroke-width="1.5" stroke-dasharray="6 6" opacity="0.3">
+        <ellipse cx="400" cy="200" rx="140" ry="70" />
+        <ellipse cx="400" cy="200" rx="220" ry="110" />
+        <ellipse cx="400" cy="200" rx="300" ry="150" />
+      </g>
+      
+      <path id="o1" d="M 540 200 A 140 70 0 1 1 539.9 200" fill="none" />
+      <path id="o2" d="M 620 200 A 220 110 0 1 1 619.9 200" fill="none" />
+      <path id="o3" d="M 700 200 A 300 150 0 1 1 699.9 200" fill="none" />
+      
+      <g><circle r="18" class="bg" stroke="#f8f9fa" stroke-width="2"/><text y="4" font-size="12" text-anchor="middle" class="text-light display" font-weight="bold">JS</text><animateMotion dur="8s" repeatCount="indefinite"><mpath href="#o1"/></animateMotion></g>
+      <g><circle r="22" class="bg" stroke="#ff354f" stroke-width="2"/><text y="4" font-size="12" text-anchor="middle" class="text-red display" font-weight="bold">React</text><animateMotion dur="14s" repeatCount="indefinite"><mpath href="#o2"/></animateMotion></g>
+      <g><circle r="20" class="bg" stroke="#247bff" stroke-width="2"/><text y="4" font-size="10" text-anchor="middle" class="text-blue display" font-weight="bold">Node</text><animateMotion dur="20s" repeatCount="indefinite"><mpath href="#o3"/></animateMotion></g>
+      <g><circle r="20" class="bg" stroke="#00ED64" stroke-width="2"/><text y="4" font-size="10" text-anchor="middle" fill="#00ED64" class="display" font-weight="bold">MDB</text><animateMotion dur="20s" repeatCount="indefinite" keyPoints="0.5;1;0;0.5" keyTimes="0;0.5;0.5;1" calcMode="linear"><mpath href="#o2"/></animateMotion></g>
+    </svg>

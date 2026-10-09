@@ -1,19 +1,22 @@
 <div align="center">
-  <img src="assets/hero.svg?v=1" alt="Ijji Madhu Venkat - Hero" width="100%" />
-  <br><br>
-  <img src="assets/about-life.svg?v=1" alt="About and Interests" width="100%" />
-  <br><br>
-  <img src="assets/stack.svg?v=1" alt="Tech Stack" width="100%" />
-  <br><br>
-  <img src="assets/id-dashboard.svg?v=1" alt="Developer ID Dashboard" width="70%" />
-  <br><br>
-  <a href="https://github.com/madhu967"><img src="assets/connect.svg?v=1" alt="Connect with me" width="100%" /></a>
+  <img src="assets/hero.svg?v=1" alt="Ijji Madhu Venkat - Hero" width="800" />
+  <br>
+  <img src="assets/about-life.svg?v=1" alt="About and Interests" width="800" />
+  <br>
+  <img src="assets/stack.svg?v=1" alt="Tech Stack" width="800" />
+  <br>
+  <img src="assets/id-dashboard.svg?v=1" alt="Developer ID Dashboard" width="800" />
+  <br>
+  <a href="https://github.com/madhu967">
+    <img src="assets/connect.svg?v=1" alt="Connect with me" width="800" />
+  </a>
   <br>
   <a href="https://github.com/madhu967"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/ijjimadhu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/ijjimadhu"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
   <a href="mailto:ijjimadhu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
+
 <br>
 
 ### 🚀 Featured Projects
