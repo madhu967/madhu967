@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="assets/hero.svg?v=3" alt="Animated Terminal Hero" width="800" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="profile.png" width="160" alt="Ijji Madhu Venkat" style="border-radius: 50%; border: 4px solid #58a6ff; margin-bottom: 20px;" />
   <h3>🚀 Full-Stack Software Engineer | MERN Specialist</h3>
   
@@ -28,15 +22,21 @@
   </p>
 </div>
 
+<br>
+
+<div align="center">
+  <img src="assets/hero.svg?v=4" alt="Animated Terminal Hero" width="800" />
+</div>
+
 ---
 
 ## 👨‍💻 Engineering Profile
 
 Currently pursuing a **B.Tech in Computer Science Engineering** (9.21 CGPA) at Vishnu Institute of Technology, with hands-on experience in architecting modern web applications. My approach focuses on writing clean, maintainable code, optimizing database transactions, and engineering seamless CI/CD pipelines.
 
-- 💼 **Current Role:** Full Stack Developer Intern @ **Yubhian Technologies** — Architecting APIs and accelerating React load times via code-splitting.
 - 🌟 **Leadership:** Mentored 60+ engineering students in full-stack architecture and best practices.
 - 💡 **Core Strengths:** System Design, Agile Workflows, JWT Authentication, API Latency Optimization.
+- 🚀 **Focus:** Scalable Systems, UI/UX Design, and AI Integration.
 
 ---
 
