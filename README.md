@@ -71,19 +71,19 @@
 
 <br/>
 
-## 📈 Advanced Analytics & Contribution Graphs
+### 📈 Advanced Analytics & Contribution Graphs
 
 <div align="center">
   <!-- Line Graph Fallback (Dotted graph API is currently down globally) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhu967&theme=radical" alt="Contribution Line Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhu967&theme=radical" alt="Contribution Line Graph" width="80%" />
 </div>
 
 <br/>
 
 <div align="center">
   <!-- Pie Charts: Languages & Commits -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhu967&theme=radical" alt="Language Pie Chart" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhu967&theme=radical" alt="Commit Pie Chart" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhu967&theme=radical" alt="Language Pie Chart" width="35%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhu967&theme=radical" alt="Commit Pie Chart" width="35%" />
 </div>
 
 <br/>
