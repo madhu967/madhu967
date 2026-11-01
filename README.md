@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,ts,python,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,mongodb,postgresql,firebase,git,github,postman,vscode,pandas,numpy,matplotlib,seaborn,langchain&perline=9&theme=dark" alt="Ijji Madhu's Skills" />
+    <img src="https://skillicons.dev/icons?i=js,java,ts,python,html,css,react,nextjs,tailwindcss,bootstrap,nodejs,express,fastapi,mongodb,postgresql,mysql,firebase,cloudinary,imagekit,git,github,postman,vscode,pandas,numpy,matplotlib,seaborn,langchain&perline=9&theme=dark" alt="Ijji Madhu's Skills" />
   </a>
 </p>
 
